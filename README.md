@@ -4,7 +4,7 @@
 
 
 
- ✨**About me**✨ 
+ ## ✨**About me**✨ 
 
 - 🖥️ I'm studing Web Developer at Trybe to become a Full Stack Developer
 - 🌎 I'm Brazilian living in Uberlandia/MG
