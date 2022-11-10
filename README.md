@@ -1,5 +1,6 @@
 # Hello, My name is João Antônio, what's yours ?
 
+
 ![lucca](https://user-images.githubusercontent.com/104396705/199032064-2b2cdce8-ca33-4325-9197-062fac59a23b.gif)
 
 
@@ -12,17 +13,10 @@
 
 
 
-## Stack 
+## Languages and Tools 
 
 <div style="display: inline_block">
-<img align="center" alt="css3" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199089196-c9f3217d-5e96-406b-8dda-b48b8c4fcaf5.svg">
-<img align="center" alt="html5" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199089615-f722c40f-13b8-435c-951f-bb03cd4e5b1f.svg">
-<img align="center" alt="javascript" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199089750-ea6338e7-af4f-4891-8147-b6b64eb42ec1.svg">
-<img align="center" alt="jest" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199034378-08e19ff8-f5d9-4d25-9df0-88dda18fc892.svg">
-<img align="center" alt="git" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199090622-af8e4a05-c306-456a-89eb-b51c88deb3fe.svg">
-<img align="center" alt="react" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199089959-a7022da1-83e6-48e5-889c-dde16c1bd983.svg">
-<img align="center" alt="docker" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199090189-da398c5b-f684-4a3b-b3de-163657253f90.svg">
-<img align="center" alt="mysql" height="50" width="50" src="https://user-images.githubusercontent.com/104396705/199090272-2858b53b-0d13-4531-b882-db114f8ef0d1.svg">
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a> </p>
 </div>
 
 
